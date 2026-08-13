@@ -1,6 +1,6 @@
 # sqolor
 
-**s**queue + c**olor** — a small bash helper for a clearer view of *your* Slurm jobs.
+**sqolor** is a portmanteau of **s**queue and c**olor** — a small bash helper for a clearer view of *your* Slurm jobs.
 
 Colors jobs by name, sorts preemptable vs non-preemptable, and prints a short resource summary at the end.
 
